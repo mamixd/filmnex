@@ -1,0 +1,46 @@
+services:
+  - type: web
+    name: cinemax-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install && npm run build
+    startCommand: node dist/main
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3001
+      - key: MONGODB_URI
+        value: mongodb+srv://nexfilm:1212Aa1212!!@filmsites.ykozcvh.mongodb.net/cinemax?appName=filmsites
+      - key: MONGODB_DB
+        value: cinemax
+      - key: REDIS_HOST
+        value: immense-hippo-75847.upstash.io
+      - key: REDIS_PORT
+        value: 6379
+      - key: REDIS_PASSWORD
+        value: gQAAAAAAAShHAAIncDE1ZWFlOGE5ODNhN2M0OGUxYjdjNWIzZWNhNjkzYTI0ZnAxNzU4NDc
+      - key: JWT_SECRET
+        value: cinemax-jwt-secret-nexfilm-2024-xK9mP3qR7nL2
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: TMDB_API_KEY
+        value: aa772c74751e0ed9d9368a5e5423c448
+      - key: TMDB_LANGUAGE
+        value: tr-TR
+      - key: TMDB_REGION
+        value: TR
+      - key: FRONTEND_URL
+        value: https://cinemax-frontend.onrender.com
+
+  - type: web
+    name: cinemax-frontend
+    runtime: node
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        value: https://cinemax-backend.onrender.com/api
+      - key: NEXT_PUBLIC_SITE_NAME
+        value: CineMax
