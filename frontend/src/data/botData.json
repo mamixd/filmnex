@@ -1,0 +1,46 @@
+[
+  {
+    "tmdbId": 522402,
+    "title": "Finch",
+    "originalTitle": null,
+    "description": "Yıkım sonrası bir dünyada geçmekte olan bilim kurgu filmi bir robotu temel alıyor. Ölmekte olan yaratıcısının köpeğini korumak için yaratılan robot, bu sürede sevgiyi, dostluğu ve insan olmanın ne demek olduğunu keşfediyor.",
+    "rating": "7.8",
+    "year": "2021",
+    "genre": "Bilim-Kurgu, Dram, Macera",
+    "image": "https://image.tmdb.org/t/p/original/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
+    "type": "movie",
+    "collectionId": null,
+    "sources": [
+      {
+        "label": "Vidrame",
+        "id": 57385,
+        "url": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8"
+      }
+    ],
+    "subtitles": [
+      {
+        "label": "Turkish",
+        "srclang": "tr",
+        "src": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/subtitle-tur-2.vtt",
+        "default": true
+      },
+      {
+        "label": "English",
+        "srclang": "en",
+        "src": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/subtitle-eng-3.vtt",
+        "default": false
+      }
+    ],
+    "directSource": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8",
+    "directSourceAlt": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8",
+    "directSourceOriginal": "https://vs2.photofunia.pro/v/Finch.2021.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8",
+    "altTitle": null,
+    "label": "Dual",
+    "id": "tmdb-522402",
+    "sourceUrl": "https://www.hdfilmizle.life/finch-hd-izle/",
+    "sourceId": "site1",
+    "isBot": true,
+    "addedAt": "2026-03-18T16:36:32.426Z"
+  }
+]

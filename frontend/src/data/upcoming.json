@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Star Wars: Mandalorian ve Grogu",
+    "poster": "https://image.tmdb.org/t/p/w500/twJgioJt2pe3yUmmth5obRxRgnM.jpg",
+    "releaseDate": "20 Mayıs",
+    "id": "1773765536176"
+  },
+  {
+    "title": "Oyuncak Hikayesi 5",
+    "poster": "https://image.tmdb.org/t/p/w500/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+    "releaseDate": "17 Haziran",
+    "id": "1773765554783"
+  },
+  {
+    "title": "SuperGirl",
+    "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+    "releaseDate": "24 Haziran",
+    "id": "1773765575879"
+  },
+  {
+    "title": "Moana",
+    "poster": "https://image.tmdb.org/t/p/w500/8Kpmnbbb8Rp1wG99thlcZ9JAUqo.jpg",
+    "releaseDate": "8 Temmuz",
+    "id": "1773765604511"
+  },
+  {
+    "title": "Odyssey",
+    "poster": "https://image.tmdb.org/t/p/w500/xzympITdMuHOwTvEkZsZlVGYQjo.jpg",
+    "releaseDate": "15 Temmuz",
+    "id": "1773765619511"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "poster": "https://image.tmdb.org/t/p/w500/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
+    "releaseDate": "29 Temmuz",
+    "id": "1773765629399"
+  },
+  {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "poster": "https://image.tmdb.org/t/p/w500/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
+    "releaseDate": "18 Kasım",
+    "id": "1773765642911"
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "poster": "https://image.tmdb.org/t/p/w500/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
+    "releaseDate": "16 Aralık",
+    "id": "1773765659447"
+  }
+]

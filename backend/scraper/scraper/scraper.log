@@ -1,0 +1,92 @@
+[2026-03-17T22:38:36.741Z] INFO: Starting Movie Series Detection Test...
+[2026-03-17T22:38:37.341Z] INFO: 🎬 Series detected: "Culpa mía" belongs to collection ID 1156666
+[2026-03-17T22:38:37.520Z] INFO: 📁 Found 3 movies in collection "Culpa mía"
+[2026-03-17T22:38:37.521Z] INFO: 🆕 Adding 3 missing movies from the collection...
+[2026-03-17T22:38:37.521Z] INFO: 🔍 Looking for collection part: "Culpa mía" (2023)
+[2026-03-17T22:38:37.521Z] INFO: Searching source for: Culpa mía (https://www.hdfilmizle.life/?s=Culpa%20m%C3%ADa)
+[2026-03-17T22:38:38.415Z] ERROR: Search failed for "Culpa mía": Request failed with status code 404
+[2026-03-17T22:38:38.415Z] WARN: ⚠️ Could not find source for "Culpa mía" on provider. Adding as metadata-only.
+[2026-03-17T22:38:38.415Z] INFO: 🔍 Looking for collection part: "Culpa tuya" (2024)
+[2026-03-17T22:38:38.415Z] INFO: Searching source for: Culpa tuya (https://www.hdfilmizle.life/?s=Culpa%20tuya)
+[2026-03-17T22:38:38.901Z] ERROR: Search failed for "Culpa tuya": Request failed with status code 404
+[2026-03-17T22:38:38.901Z] WARN: ⚠️ Could not find source for "Culpa tuya" on provider. Adding as metadata-only.
+[2026-03-17T22:38:38.901Z] INFO: 🔍 Looking for collection part: "Bizim Hatamız" (2025)
+[2026-03-17T22:38:38.901Z] INFO: Searching source for: Bizim Hatamız (https://www.hdfilmizle.life/?s=Bizim%20Hatam%C4%B1z)
+[2026-03-17T22:38:39.527Z] ERROR: Search failed for "Bizim Hatamız": Request failed with status code 404
+[2026-03-17T22:38:39.528Z] WARN: ⚠️ Could not find source for "Bizim Hatamız" on provider. Adding as metadata-only.
+[2026-03-17T22:38:39.528Z] INFO: 
+--- TEST RESULTS ---
+[2026-03-17T22:38:39.528Z] INFO: Collection Movies Found: 3
+[2026-03-17T22:38:39.528Z] INFO: - Culpa mía
+[2026-03-17T22:38:39.528Z] INFO: - Culpa tuya
+[2026-03-17T22:38:39.528Z] INFO: - Bizim Hatamız
+[2026-03-17T22:41:35.085Z] INFO: Starting Movie Series Detection Test...
+[2026-03-17T22:41:35.555Z] INFO: 🎬 Series detected: "Culpa mía" belongs to collection ID 1156666
+[2026-03-17T22:41:35.640Z] INFO: 📁 Found 3 movies in collection "Culpa mía"
+[2026-03-17T22:41:35.640Z] INFO: 🆕 Adding 3 missing movies from the collection...
+[2026-03-17T22:41:35.640Z] INFO: 🔍 Looking for collection part: "Culpa mía" (2023)
+[2026-03-17T22:41:35.641Z] INFO: Searching source for: Culpa mía (https://www.hdfilmizle.life?s=Culpa%20m%C3%ADa)
+[2026-03-17T22:41:36.171Z] ERROR: Search failed for "Culpa mía": Request failed with status code 404
+[2026-03-17T22:41:36.171Z] WARN: ⚠️ Could not find source for "Culpa mía" on provider. Adding as metadata-only.
+[2026-03-17T22:41:36.171Z] INFO: 🔍 Looking for collection part: "Culpa tuya" (2024)
+[2026-03-17T22:41:36.171Z] INFO: Searching source for: Culpa tuya (https://www.hdfilmizle.life?s=Culpa%20tuya)
+[2026-03-17T22:41:36.783Z] ERROR: Search failed for "Culpa tuya": Request failed with status code 404
+[2026-03-17T22:41:36.783Z] WARN: ⚠️ Could not find source for "Culpa tuya" on provider. Adding as metadata-only.
+[2026-03-17T22:41:36.783Z] INFO: 🔍 Looking for collection part: "Bizim Hatamız" (2025)
+[2026-03-17T22:41:36.783Z] INFO: Searching source for: Bizim Hatamız (https://www.hdfilmizle.life?s=Bizim%20Hatam%C4%B1z)
+[2026-03-17T22:41:37.223Z] ERROR: Search failed for "Bizim Hatamız": Request failed with status code 404
+[2026-03-17T22:41:37.223Z] WARN: ⚠️ Could not find source for "Bizim Hatamız" on provider. Adding as metadata-only.
+[2026-03-17T22:41:37.224Z] INFO: 
+--- TEST RESULTS ---
+[2026-03-17T22:41:37.224Z] INFO: Collection Movies Found: 3
+[2026-03-17T22:41:37.224Z] INFO: - Culpa mía
+[2026-03-17T22:41:37.224Z] INFO: - Culpa tuya
+[2026-03-17T22:41:37.224Z] INFO: - Bizim Hatamız
+[2026-03-17T22:42:36.371Z] INFO: Starting Movie Series Detection Test...
+[2026-03-17T22:42:37.104Z] INFO: 🎬 Series detected: "John Wick: Chapter 3 - Parabellum" belongs to collection ID 404609
+[2026-03-17T22:42:37.348Z] INFO: 📁 Found 4 movies in collection "John Wick: Chapter 3 - Parabellum"
+[2026-03-17T22:42:37.348Z] INFO: 🆕 Adding 4 missing movies from the collection...
+[2026-03-17T22:42:37.348Z] INFO: 🔍 Looking for collection part: "John Wick" (2014)
+[2026-03-17T22:42:37.348Z] INFO: Searching source for: John Wick (https://www.hdfilmizle.life?s=John%20Wick)
+[2026-03-17T22:42:37.996Z] ERROR: Search failed for "John Wick": Request failed with status code 404
+[2026-03-17T22:42:37.996Z] WARN: ⚠️ Could not find source for "John Wick" on provider. Adding as metadata-only.
+[2026-03-17T22:42:37.996Z] INFO: 🔍 Looking for collection part: "John Wick: Chapter 2" (2017)
+[2026-03-17T22:42:37.996Z] INFO: Searching source for: John Wick: Chapter 2 (https://www.hdfilmizle.life?s=John%20Wick%3A%20Chapter%202)
+[2026-03-17T22:42:38.823Z] ERROR: Search failed for "John Wick: Chapter 2": Request failed with status code 404
+[2026-03-17T22:42:38.823Z] WARN: ⚠️ Could not find source for "John Wick: Chapter 2" on provider. Adding as metadata-only.
+[2026-03-17T22:42:38.823Z] INFO: 🔍 Looking for collection part: "John Wick: Chapter 3 - Parabellum" (2019)
+[2026-03-17T22:42:38.823Z] INFO: Searching source for: John Wick: Chapter 3 - Parabellum (https://www.hdfilmizle.life?s=John%20Wick%3A%20Chapter%203%20-%20Parabellum)
+[2026-03-17T22:42:39.426Z] ERROR: Search failed for "John Wick: Chapter 3 - Parabellum": Request failed with status code 404
+[2026-03-17T22:42:39.427Z] WARN: ⚠️ Could not find source for "John Wick: Chapter 3 - Parabellum" on provider. Adding as metadata-only.
+[2026-03-17T22:42:39.427Z] INFO: 🔍 Looking for collection part: "John Wick: Chapter 4" (2023)
+[2026-03-17T22:42:39.427Z] INFO: Searching source for: John Wick: Chapter 4 (https://www.hdfilmizle.life?s=John%20Wick%3A%20Chapter%204)
+[2026-03-17T22:42:39.987Z] ERROR: Search failed for "John Wick: Chapter 4": Request failed with status code 404
+[2026-03-17T22:42:39.987Z] WARN: ⚠️ Could not find source for "John Wick: Chapter 4" on provider. Adding as metadata-only.
+[2026-03-17T22:42:39.987Z] INFO: 
+--- TEST RESULTS ---
+[2026-03-17T22:42:39.987Z] INFO: Collection Movies Found: 4
+[2026-03-17T22:42:39.987Z] INFO: - John Wick
+[2026-03-17T22:42:39.987Z] INFO: - John Wick: Chapter 2
+[2026-03-17T22:42:39.987Z] INFO: - John Wick: Chapter 3 - Parabellum
+[2026-03-17T22:42:39.987Z] INFO: - John Wick: Chapter 4
+[2026-03-17T22:52:32.702Z] INFO: Starting Movie Series Detection Test...
+[2026-03-17T22:52:33.565Z] INFO: 🎬 Series detected: "Culpa mía" belongs to collection ID 1156666
+[2026-03-17T22:52:33.759Z] INFO: 📁 Found 3 movies in collection "Culpa mía"
+[2026-03-17T22:52:33.759Z] INFO: 🆕 Adding 3 missing movies from the collection...
+[2026-03-17T22:52:33.759Z] INFO: 🔍 Looking for collection part: "Culpa mía" (2023)
+[2026-03-17T22:52:33.760Z] INFO: Searching source for: Culpa mía (POST: https://www.hdfilmizle.life/search/)
+[2026-03-17T22:52:34.058Z] WARN: ⚠️ Could not find source for "Culpa mía" on provider. Adding as metadata-only.
+[2026-03-17T22:52:34.058Z] INFO: 🔍 Looking for collection part: "Culpa tuya" (2024)
+[2026-03-17T22:52:34.058Z] INFO: Searching source for: Culpa tuya (POST: https://www.hdfilmizle.life/search/)
+[2026-03-17T22:52:34.196Z] WARN: No search results for "Culpa tuya"
+[2026-03-17T22:52:34.196Z] WARN: ⚠️ Could not find source for "Culpa tuya" on provider. Adding as metadata-only.
+[2026-03-17T22:52:34.196Z] INFO: 🔍 Looking for collection part: "Bizim Hatamız" (2025)
+[2026-03-17T22:52:34.196Z] INFO: Searching source for: Bizim Hatamız (POST: https://www.hdfilmizle.life/search/)
+[2026-03-17T22:52:34.333Z] WARN: No search results for "Bizim Hatamız"
+[2026-03-17T22:52:34.333Z] WARN: ⚠️ Could not find source for "Bizim Hatamız" on provider. Adding as metadata-only.
+[2026-03-17T22:52:34.334Z] INFO: 
+--- TEST RESULTS ---
+[2026-03-17T22:52:34.334Z] INFO: Collection Movies Found: 3
+[2026-03-17T22:52:34.334Z] INFO: - Culpa mía
+[2026-03-17T22:52:34.334Z] INFO: - Culpa tuya
+[2026-03-17T22:52:34.334Z] INFO: - Bizim Hatamız
